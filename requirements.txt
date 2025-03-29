@@ -1,0 +1,14 @@
+Flask
+openai  # or other library to load the Llama models
+nomic  # library for embedding PDF text
+pyttsx3
+PyPDF2
+flask
+requests
+python-dotenv
+streamlit
+python-dotenv
+requests
+streamlit
+python-dotenv
+requests
